@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 
 -->
 
-- 🌱 I’m currently learning VueJS ...
+- 🌱 I’m currently learning VueJS
 - ⚡ Fun fact: I think Paimon is boring
