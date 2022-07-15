@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leonardoamaral92&show_icons=true&theme=vision-friendly-dark" alt="leonardomarques's stats"/>
+<!--<img width="530em" src="https://github-readme-stats.vercel.app/api?username=leonardoamaral92&show_icons=true&theme=vision-friendly-dark" alt="leonardomarques's stats"/>-->
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoamaral92&layout=compact&theme=vision-friendly-dark" alt="leonardomarques's most languages"/>
 </p>
